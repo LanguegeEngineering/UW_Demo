@@ -106,7 +106,17 @@ print("\n".join(['matsushima-ya', 'aah matsushima-ya', 'matsushima-ya']))
 """### Formatting strings"""
 
 pi = 3.14159
-str(pi)
+type(pi)
+
+"""To change number to string we need to cast by:
+
+
+```python
+string = str(number)
+```
+
+
+"""
 
 print( "The value of pi is " + str(pi))
 
@@ -286,7 +296,7 @@ sns.lineplot(data=years_df, x="Year", y="Occurences")
 
 """### Python Web Scrapping
 
-Sometimes there are websites that make text directly available for us (e.g. books).
+Sometimes there are websites that contain open-domain text directly available for us (e.g. books).
 
 If we want do download polish book we can do it as follows
 """
