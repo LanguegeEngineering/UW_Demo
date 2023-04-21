@@ -1,9 +1,9 @@
-# Pierwsze repozytorium
+# First repository
 
-1. Należy pobrać zip z plikami (prawy górny róg).
-2. ... a następnie go rozpakować.
-3. Potem wejść na colab.research.google.com
-4. ... otworzyć pobrany plik .ipynb (File -> Upload notebook).
-5. Powinien otworzyć się notatnik i można pracować.
-6. Po pracy trzeba pobrać dwa pliki (File -> Download .ipynb i .py)
-7. W repozytorium (tutaj) wybrać Upload Files i wrzucić oba te pliki, a następnie commitować.
+1. Download the zip file (upper right corner).
+2.  ... and then extract it.
+3. Then go to colab.research.google.com
+4. ... open the downloaded .ipynb file (File -> Upload notebook).
+5. A notebook should open and you can work on it.
+6. After finishing your work, you need to download two files (File -> Download .ipynb and .py)
+7. In the repository (here) choose Upload Files and upload both files, and then commit.
