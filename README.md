@@ -5,5 +5,5 @@
 3. Then go to colab.research.google.com
 4. ... open the downloaded .ipynb file (File -> Upload notebook).
 5. A notebook should open and you can work on it.
-6. After finishing your work, you need to download two files (File -> Download .ipynb and .py)
-7. In the repository (here) choose Upload Files and upload both files, and then commit.
+6. After finishing your work, you need to download file (File -> Download .ipynb)
+7. In the repository (here) choose Upload Files and upload file, and then commit.
